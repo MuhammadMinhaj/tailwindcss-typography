@@ -39,25 +39,25 @@ let defaultModifiers = {
         },
         h1: {
           fontSize: em(30, 14),
-          marginTop: '0',
-          marginBottom: em(24, 30),
+          paddingTop: '0',
+          paddingBottom: em(24, 30),
           lineHeight: round(36 / 30),
         },
         h2: {
           fontSize: em(20, 14),
-          marginTop: em(32, 20),
-          marginBottom: em(16, 20),
+          paddingTop: em(32, 20),
+          paddingBottom: em(16, 20),
           lineHeight: round(28 / 20),
         },
         h3: {
           fontSize: em(18, 14),
-          marginTop: em(28, 18),
-          marginBottom: em(8, 18),
+          paddingTop: em(28, 18),
+          paddingBottom: em(8, 18),
           lineHeight: round(28 / 18),
         },
         h4: {
-          marginTop: em(20, 14),
-          marginBottom: em(8, 14),
+          paddingTop: em(20, 14),
+          paddingBottom: em(8, 14),
           lineHeight: round(20 / 14),
         },
         img: {
@@ -163,13 +163,13 @@ let defaultModifiers = {
           marginTop: '0',
         },
         'h2 + *': {
-          marginTop: '0',
+          paddingTop: '0',
         },
         'h3 + *': {
-          marginTop: '0',
+          paddingTop: '0',
         },
         'h4 + *': {
-          marginTop: '0',
+          paddingTop: '0',
         },
         table: {
           fontSize: em(12, 14),
@@ -244,25 +244,25 @@ let defaultModifiers = {
         },
         h1: {
           fontSize: em(36, 16),
-          marginTop: '0',
-          marginBottom: em(32, 36),
+          paddingTop: '0',
+          paddingBottom: em(32, 36),
           lineHeight: round(40 / 36),
         },
         h2: {
           fontSize: em(24, 16),
-          marginTop: em(48, 24),
-          marginBottom: em(24, 24),
+          paddingTop: em(48, 24),
+          paddingBottom: em(24, 24),
           lineHeight: round(32 / 24),
         },
         h3: {
           fontSize: em(20, 16),
-          marginTop: em(32, 20),
-          marginBottom: em(12, 20),
+          paddingTop: em(32, 20),
+          paddingBottom: em(12, 20),
           lineHeight: round(32 / 20),
         },
         h4: {
-          marginTop: em(24, 16),
-          marginBottom: em(8, 16),
+          paddingTop: em(24, 16),
+          paddingBottom: em(8, 16),
           lineHeight: round(24 / 16),
         },
         img: {
@@ -368,13 +368,13 @@ let defaultModifiers = {
           marginTop: '0',
         },
         'h2 + *': {
-          marginTop: '0',
+          paddingTop: '0',
         },
         'h3 + *': {
-          marginTop: '0',
+          paddingTop: '0',
         },
         'h4 + *': {
-          marginTop: '0',
+          paddingTop: '0',
         },
         table: {
           fontSize: em(14, 16),
@@ -449,25 +449,25 @@ let defaultModifiers = {
         },
         h1: {
           fontSize: em(48, 18),
-          marginTop: '0',
-          marginBottom: em(40, 48),
+          paddingTop: '0',
+          paddingBottom: em(40, 48),
           lineHeight: round(48 / 48),
         },
         h2: {
           fontSize: em(30, 18),
-          marginTop: em(56, 30),
-          marginBottom: em(32, 30),
+          paddingTop: em(56, 30),
+          paddingBottom: em(32, 30),
           lineHeight: round(40 / 30),
         },
         h3: {
           fontSize: em(24, 18),
-          marginTop: em(40, 24),
-          marginBottom: em(16, 24),
+          paddingTop: em(40, 24),
+          paddingBottom: em(16, 24),
           lineHeight: round(36 / 24),
         },
         h4: {
-          marginTop: em(32, 18),
-          marginBottom: em(8, 18),
+          paddingTop: em(32, 18),
+          paddingBottom: em(8, 18),
           lineHeight: round(28 / 18),
         },
         img: {
@@ -573,13 +573,13 @@ let defaultModifiers = {
           marginTop: '0',
         },
         'h2 + *': {
-          marginTop: '0',
+          paddingTop: '0',
         },
         'h3 + *': {
-          marginTop: '0',
+          paddingTop: '0',
         },
         'h4 + *': {
-          marginTop: '0',
+          paddingTop: '0',
         },
         table: {
           fontSize: em(16, 18),
@@ -654,25 +654,25 @@ let defaultModifiers = {
         },
         h1: {
           fontSize: em(56, 20),
-          marginTop: '0',
-          marginBottom: em(48, 56),
+          paddingTop: '0',
+          paddingBottom: em(48, 56),
           lineHeight: round(56 / 56),
         },
         h2: {
           fontSize: em(36, 20),
-          marginTop: em(56, 36),
-          marginBottom: em(32, 36),
+          paddingTop: em(56, 36),
+          paddingBottom: em(32, 36),
           lineHeight: round(40 / 36),
         },
         h3: {
           fontSize: em(30, 20),
-          marginTop: em(48, 30),
-          marginBottom: em(20, 30),
+          paddingTop: em(48, 30),
+          paddingBottom: em(20, 30),
           lineHeight: round(40 / 30),
         },
         h4: {
-          marginTop: em(36, 20),
-          marginBottom: em(12, 20),
+          paddingTop: em(36, 20),
+          paddingBottom: em(12, 20),
           lineHeight: round(32 / 20),
         },
         img: {
@@ -778,13 +778,13 @@ let defaultModifiers = {
           marginTop: '0',
         },
         'h2 + *': {
-          marginTop: '0',
+          paddingTop: '0',
         },
         'h3 + *': {
-          marginTop: '0',
+          paddingTop: '0',
         },
         'h4 + *': {
-          marginTop: '0',
+          paddingTop: '0',
         },
         table: {
           fontSize: em(18, 20),
@@ -859,25 +859,25 @@ let defaultModifiers = {
         },
         h1: {
           fontSize: em(64, 24),
-          marginTop: '0',
-          marginBottom: em(56, 64),
+          paddingTop: '0',
+          paddingBottom: em(56, 64),
           lineHeight: round(64 / 64),
         },
         h2: {
           fontSize: em(48, 24),
-          marginTop: em(72, 48),
-          marginBottom: em(40, 48),
+          paddingTop: em(72, 48),
+          paddingBottom: em(40, 48),
           lineHeight: round(52 / 48),
         },
         h3: {
           fontSize: em(36, 24),
-          marginTop: em(56, 36),
-          marginBottom: em(24, 36),
+          paddingTop: em(56, 36),
+          paddingBottom: em(24, 36),
           lineHeight: round(44 / 36),
         },
         h4: {
-          marginTop: em(40, 24),
-          marginBottom: em(16, 24),
+          paddingTop: em(40, 24),
+          paddingBottom: em(16, 24),
           lineHeight: round(36 / 24),
         },
         img: {
@@ -983,13 +983,13 @@ let defaultModifiers = {
           marginTop: '0',
         },
         'h2 + *': {
-          marginTop: '0',
+          paddingTop: '0',
         },
         'h3 + *': {
-          marginTop: '0',
+          paddingTop: '0',
         },
         'h4 + *': {
-          marginTop: '0',
+          paddingTop: '0',
         },
         table: {
           fontSize: em(20, 24),
